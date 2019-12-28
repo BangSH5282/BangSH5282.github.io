@@ -1,7 +1,7 @@
 remote_theme : TaylanTatli/Moon
 # Site
-title:              My site
-bio:                'I make this site.'
+title:              제목
+bio:                '내가 이 사이트를 .'
 description:        "if seartch, can see ."
 reading_time:       true
 words_per_minute:   200
