@@ -1,7 +1,12 @@
 ---
-title: "테스트!"
-date: 2019-12-28 22:26:30
-categories: c언어
+layout: post
+title: "테스트 해본다"
+date: 2019-12-28
+excerpt: "이건 뭘까?"
+tags: [test, 테스트]
+comments: true
 ---
-한번 테스트 해본다 
+
+#본문 테스트
+블로그 만들었다
 과연 될까 ?
