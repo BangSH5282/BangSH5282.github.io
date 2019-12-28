@@ -1,14 +1,14 @@
 # Site
-title:              나의 사이트
-bio:                '방수현이가 운영하는 사이트.'
-description:        "검색해서 나올만한거."
+title:              My site
+bio:                'I make this site.'
+description:        "if seartch, can see ."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://BangSH5282.github.io/Moon
+locale:             kr_KO
+url:                https://BangSH5282.github.io/
 
 # Jekyll
 permalink:          /:title/
