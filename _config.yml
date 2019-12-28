@@ -1,7 +1,7 @@
 remote_theme : TaylanTatli/Moon
 # Site
 title:              쉽게 C언어 배우기
-bio:                '아레의 '글보기'버튼을 눌러서 강좌를 보실수 있습니다.'
+bio:                '아레의 글보기버튼을 눌러서 강좌를 보실수 있습니다.'
 description:        "if seartch, can see ."
 reading_time:       true
 words_per_minute:   200
