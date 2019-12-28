@@ -1,7 +1,7 @@
 remote_theme : TaylanTatli/Moon
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              C언어 배우기
+bio:                '아주 쉽게 C언어를 배우는 방법을 알려드리고 있습니다.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
