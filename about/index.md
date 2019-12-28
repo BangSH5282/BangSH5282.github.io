@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 나에 대해서
+tags: []
+date: 2019-12-28
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 컴퓨터 언어들을 배운 과정
+가장 처음 배운 언어인 C언어를 2년 6개월 정도 배웠습니다. 그밖에도 MFC, C++ </br>
+python 등 도 1년정도 배웠습니다. 
 
-## Preview
+## 홈페이지를 만든 과정
+사실 html, java script, jQuery 등을 배운지는 얼마 되지 않았습니다.</br>
+얼마 배우지 않았지만 C언어와 비슷한것들이 많아서 쉽고 빠르게 배운것 같습니다.</br>
+이 언어들을 처음 배울때는 그냥 배워두면 좋을 것 같아서 배웠는데 배우고 난뒤</br>
+위처럼 C언어와 비슷한 점이 정말 많았습니다. 이런 C언어를 많은사람들이 알게되면</br>
+어떤 언어이든지 쉽게 접근할수 있을것 같아서 C언어 강좌를 만들게 되었습니다.</br>
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
